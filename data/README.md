@@ -1,26 +1,26 @@
 # 📰 Bangladesh News Archive
 
-**Last updated:** 2026-03-28
+**Last updated:** 2026-03-29
 
 | Metric | Count |
 |--------|-------|
-| Total Articles (JSON) | **19916** |
-| Total in Database | 457 |
-| Added Today | 176 |
+| Total Articles (JSON) | **20097** |
+| Total in Database | 439 |
+| Added Today | 181 |
 
 ## Articles by Newspaper
 
 | Paper | Count |
 |-------|-------|
-| Jago News 24 | 5603 |
+| Jago News 24 | 5688 |
 | The Daily Star | 3153 |
-| Rising BD | 2912 |
-| Daily Naya Diganta | 2224 |
+| Rising BD | 2941 |
+| Daily Naya Diganta | 2262 |
 | Prothom Alo | 1702 |
 | The Business Standard | 1629 |
-| Dhaka Post | 1114 |
-| Jugantor | 924 |
-| BD News 24 | 262 |
+| Dhaka Post | 1127 |
+| Jugantor | 937 |
+| BD News 24 | 265 |
 | Barta24 | 192 |
 | BBC Bangla | 91 |
 | Dhaka Tribune | 63 |
